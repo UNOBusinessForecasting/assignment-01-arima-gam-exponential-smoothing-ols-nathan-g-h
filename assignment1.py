@@ -1,5 +1,4 @@
 from prophet import Prophet
-import statsmodels.formula.api as smf
 import pandas as pd
 import plotly.express as px
 
